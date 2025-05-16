@@ -96,17 +96,17 @@ All data processing happens locally within the application. No data is sent to e
 
 ## Requirements
 ```
-pandas==2.2.3
-numpy==2.2.5
-matplotlib==3.10.3
-seaborn==0.13.2
-scikit-learn==1.6.1
-vaderSentiment==3.3.2
-streamlit==1.32.0
-plotly==5.18.0
-scipy==1.15.3
-joblib==1.5.0
-threadpoolctl==3.6.0
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+vaderSentiment
+streamlit
+plotly
+scipy
+joblib
+threadpoolctl
 ```
 
 ## License
